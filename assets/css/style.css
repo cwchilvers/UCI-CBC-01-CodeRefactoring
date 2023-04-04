@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Selecting the image file and setting up how it is displayed */ 
 figure {
     height: 800px;
     width: 100%;
@@ -69,12 +70,14 @@ figure {
     margin-left: 25px;
 }
 
+/* Setting the size of the containter and how the inside contents are displayed */ 
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Setting the size of the containter and how the inside contents are displayed */ 
 aside {
     margin-right: 20px;
     padding: 20px;
