@@ -1,2 +1,8 @@
-# challenge-01
-HTML, CSS, and Git: Code Refactor
+# Challenge 1: Code Refactoring
+## Description
+This project's goal was to refactor code for a webpage so that it uses semantic HTML elements and follows accessibility standards via alt attributes. 
+
+## Screenshots
+
+## Website Location
+[Challenge 3](https://cwchilvers.github.io/UCI-CBC_Challenge-01/)
