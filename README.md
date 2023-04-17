@@ -1,6 +1,6 @@
 # Challenge 1: Code Refactoring
 ## Description
-This project's goal was to refactor code for a webpage so that it uses semantic HTML elements and follows accessibility standards via alt attributes. 
+This project's goal was to refactor code for a webpage so that it uses semantic HTML elements in a logical structure and follows accessibility standards via alt attributes. 
 
 ## Screenshots
 
