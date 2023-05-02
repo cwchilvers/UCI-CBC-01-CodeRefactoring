@@ -4,5 +4,5 @@ This project's goal was to refactor code for a webpage so that it uses semantic 
 
 ## Screenshots
 
-## Web App Location
-[Challenge 3](https://cwchilvers.github.io/UCI-CBC_Challenge-01/)
+## Deployed Web App
+[Code Refactoring](https://cwchilvers.github.io/UCI-CBC_Challenge-01/)
