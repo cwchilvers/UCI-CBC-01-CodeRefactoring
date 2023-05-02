@@ -5,4 +5,4 @@ This project's goal was to refactor code for a webpage so that it uses semantic 
 ## Screenshots
 
 ## Deployed Web App
-[Code Refactoring](https://cwchilvers.github.io/UCI-CBC_Challenge-01/)
+[Code Refactoring](https://apps.cwchilvers.io/apps/uci-bootcamp/UCI-CBC-01-CodeRefactoring/index.html)
